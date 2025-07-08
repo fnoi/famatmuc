@@ -59,4 +59,3 @@ isbn = {9781914241826},
 
 ## Acknowledgements
 This research has been partially funded by the GeoAI4Retrofit project supported by the Federal Ministry for Economic Affairs and Climate Action Germany.
-```
