@@ -46,14 +46,14 @@ Please, see the accompanying technical report for details. If you make use of th
 
 ```bibtex
 @inproceedings{noll_noichl_2025_egice,
-author = {L. Noll and F. Noichl and B. Kiper and A. Borrmann},
-title = {Decoding Building Facades: Automated Element and Material Recognition in Street‐Level Images for Large‐Scale Building Stock Assessments},
-booktitle = {EG‑ICE 2025: AI‑Driven Collaboration for Sustainable and Resilient Built Environments},
-editor = {Alejandro Moreno‑Rangel and Bimal Kumar},
-year = {2025},
-doi = {10.17868/strath.00093240},
-publisher = {University of Strathclyde Publishing},
-isbn = {9781914241826},
+  author = {L. Noll and F. Noichl and B. Kiper and A. Borrmann},
+  title = {Decoding Building Facades: Automated Element and Material Recognition in Street‐Level Images for Large‐Scale Building Stock Assessments},
+  booktitle = {EG‑ICE 2025: AI‑Driven Collaboration for Sustainable and Resilient Built Environments},
+  editor = {Alejandro Moreno‑Rangel and Bimal Kumar},
+  year = {2025},
+  doi = {10.17868/strath.00093240},
+  publisher = {University of Strathclyde Publishing},
+  isbn = {9781914241826},
 }
 ```
 
